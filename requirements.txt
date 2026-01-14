@@ -1,0 +1,13 @@
+pillow
+tqdm
+matplotlib
+opencv-python-headless
+pandas
+transformers
+accelerate
+bitsandbytes # 位元量化（例如 load_in_8bit=True 或 load_in_4bit=True）
+peft
+datasets
+qwen_vl_utils
+ms-swift
+sacrebleu
